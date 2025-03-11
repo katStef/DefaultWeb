@@ -35,3 +35,11 @@ Commit #17 - Started rebase dev 2 commit 2
 Commit #18 - This is from dev2 making a bug fix change
 
 Commit #19 - Developer 1 working on the bug fix
+
+Commit #20 - Squash local commit 1
+
+Commit #21 - Squash local commit 2
+
+Commit #22 - Squash local commit 3
+
+Commit #23 - Squash local commit 4
