@@ -44,4 +44,8 @@ Commit #22 - Squash local commit 3
 
 Commit #23 - Squash local commit 4
 
+Commit #24 - Cherry Pick demo commit 1
+
+Commit #25 - Cherry Pick demo commit 2
+
 No more commits after this line.
